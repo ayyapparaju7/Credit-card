@@ -16,5 +16,5 @@ This tool goes beyond simple amortization calculators by offering daily ledger t
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YOUR-USERNAME/credit-card-planner.git](https://github.com/YOUR-USERNAME/credit-card-planner.git)
+git clone [https://github.com/ayyapparaju7/Credit-card.git](https://github.com/ayyapparaju7/Credit-card.git)
 cd credit-card-planner
